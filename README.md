@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hola 👋, soy Luis</h1>
 
 
-<p>Bienvenido a mi perfil de GitHub </br>Soy un desarrollador junior de <img src="https://res.cloudinary.com/luis-berrezueta/image/upload/v1692742228/svbvsy8w8xhw2rseoala.png" width="20"/> <b>Cuenca, Ecuador</b>
+<p>Bienvenido a mi perfil de GitHub </br>Soy un desarrollador semi senior de <img src="https://res.cloudinary.com/luis-berrezueta/image/upload/v1692742228/svbvsy8w8xhw2rseoala.png" width="20"/> <b>Cuenca, Ecuador</b>
 
 <h3>Lenguages y herramientas</h3>
 
