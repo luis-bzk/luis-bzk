@@ -19,7 +19,8 @@
   <img alt="ExpressJs" src="https://img.shields.io/badge/-ExpressJs-262626?style=flat-square&logo=express&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-0d9488?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-java-e9a70e?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
