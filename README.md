@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Luis</h1>
 
 <p align="center">
-  <img src="https://TU-IMAGEN" alt="Luis Berrezueta" width="120" style="border-radius: 50%"/><br/>
+<!--   <img src="https://TU-IMAGEN" alt="Luis Berrezueta" width="120" style="border-radius: 50%"/><br/> -->
   <strong>Desarrollador Fullstack | DevOps Enthusiast | Explorando IA y Ciberseguridad</strong>
 </p>
 
@@ -74,10 +74,10 @@ Una aplicación para gestión de citas que nació con la idea de un e-commerce, 
 ### 📫 ¿Quieres hablar conmigo?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-alexander-berrezueta-cordova-96b261231/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU-EMAIL@gmail.com">
+  <a href="mailto:alexxuss19@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
